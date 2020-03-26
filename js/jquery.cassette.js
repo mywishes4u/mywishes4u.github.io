@@ -47,7 +47,7 @@
 	
 	$.Cassette.defaults 	= {
 		// song names. Assumes the path of each song is songs/name.filetype
-		songs			: [ 'Oh My Friend-Bgm', 'Original-HBD', 'Daddy', 'Mummy', 'Bro', 'HBD-Slowmotion', 'Hubby', 'Family', 'Bar-Bar-Din', 'Mamu', 'Suman', 'Swati', 'Sai', 'HBD-Female', 'Lohi', 'Origonal-HBDCrowd', 'Daddy-Mom'],
+		songs			: [ 'Oh My Friend-Bgm', 'Original-HBD', 'Daddy', 'Mummy', 'Bro', 'HBD-Slowmotion', 'Hubby', 'Family', 'Mamu', 'Bar-Bar-Din', 'Suman', 'Swati', 'Sai', 'HBD-Female', 'Lohi', 'Origonal-HBDCrowd', 'Daddy-Mom'],
 		fallbackMessage	: 'HTML5 audio not supported',
 		// initial sound volume
 		initialVolume	: 0.7
